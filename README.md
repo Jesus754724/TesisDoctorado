@@ -1,3 +1,3 @@
 # TesisDoctorado
 
-En este repositorio estare llevare el control de versiones del la tesis de doctorado
+En este repositorio llevare el control de versiones del la tesis de doctorado
